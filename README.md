@@ -37,9 +37,19 @@ This repository documents an interactive Tableau dashboard I created to explore 
   - Sales
   - Number of orders
 
+---
+
+## 📸 Dashboard Previews
+
+### Sales Dashboard  
+![Sales Dashboard](screenshots/Sales_tableau.jpeg)  
+*An interactive sales dashboard showing KPIs, sub-category sales, and weekly trends.*
 
 ---
 
+### Customer Dashboard  
+![Customer Dashboard](screenshots/customer_tableau.jpeg)  
+*Customer analytics dashboard highlighting order distribution and top customers by profit.*
 
 ## 🛠 Tools Used
 - Tableau Public
