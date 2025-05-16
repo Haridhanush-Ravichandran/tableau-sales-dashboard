@@ -50,4 +50,4 @@ This repository documents an interactive Tableau dashboard I created to explore 
 
 **Haridhanush Ravichandran**  
 MSc Data Science, University of Padova (2024–26)  
-🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/YOUR_USERNAME)
+🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/hari.ravi6514)
